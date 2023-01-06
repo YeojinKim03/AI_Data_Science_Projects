@@ -7,7 +7,7 @@ https://kmooc.udemy.com/course/best-ml-8-real-project/learn/lecture/29426516#ove
 
 ### Project #2 : CIFAR 10 분류 DNN
 
-### Project #3 : 시카고 범죄율 
+### Project #3 : 시카고 범죄율 Sequence Data (fbprophet)
 <br>
 
 ##  :pencil2:   Dacon Study - Data Science Project
