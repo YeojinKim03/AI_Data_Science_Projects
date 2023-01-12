@@ -20,3 +20,7 @@ https://kmooc.udemy.com/course/best-ml-8-real-project/learn/lecture/29426516#ove
 ### Dacon #1 : 물류 유통량 예측 경진대회
 - 알고리즘, 정형, 회귀, 운송량, RMSE
 - https://dacon.io/competitions/official/235867/overview/description
+
+### Dacon #2 : 제주도 도로 교통량 예측 AI 경진대회
+- 알고리즘, 정형, 교통, 회귀, MAE
+- https://dacon.io/competitions/official/235985/overview/description
