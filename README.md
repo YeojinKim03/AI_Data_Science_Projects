@@ -24,3 +24,7 @@ https://kmooc.udemy.com/course/best-ml-8-real-project/learn/lecture/29426516#ove
 ### Dacon #2 : 제주도 도로 교통량 예측 AI 경진대회
 - 알고리즘, 정형, 교통, 회귀, MAE
 - https://dacon.io/competitions/official/235985/overview/description
+
+### Dacon #3 : 건설기계 오일 상태 분류 AI 경진대회
+- 알고리즘, 정형, 건설기계, 분류, Macro f1 score
+- https://dacon.io/competitions/official/236013/overview/description
